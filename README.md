@@ -16,9 +16,10 @@ I love [PaintCode](http://www.paintcodeapp.com/).  Not only is their product eas
 ##Other Resources
 
 ###Resource Collections
-* [Beaqn.in](http://beaqn.in/webdesign/)
-* [Web Design Repo](http://www.webdesignrepo.com/)
-
+* [Beaqn.in](http://beaqn.in/webdesign/) - tons of free photos, design inspirations, and everything else web developers may need
+* [Web Design Repo](http://www.webdesignrepo.com/) - Web design resource
+* [pttrns](http://pttrns.com) - collection of various iOS interface designs
+* [capptivate](http://capptivate.co) - collection of various iOS transitions
 
 ###Media Resources
 #### Royality Free Music (Creative Commons License)
