@@ -24,6 +24,7 @@ I love [PaintCode](http://www.paintcodeapp.com/).  Not only is their product eas
 ###Media Resources
 #### Royality Free Music (Creative Commons License)
 * [BenSound.com](http://www.bensound.com/)
+* [Individual Instrument Sounds](http://theremin.music.uiowa.edu/MIS.html)
 
 ####Icons
 * [Glyphish Icons Set]()
